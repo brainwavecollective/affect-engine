@@ -1,4 +1,4 @@
-NOTE: This is an interim location and this should be considered a 301. Work is continuing with: [anima-engine](https://github.com/brainwavecollective/anima-engine).
+**NOTE: This is an interim location and this should be considered a 301. Work is continuing with: [anima-engine](https://github.com/brainwavecollective/anima-engine).**
 
 ## Acknowledgements
 
